@@ -1,0 +1,2 @@
+# Nepal-Admin-Geospatial
+SHAPE FILE OF NEPAL (ADMINISTRATIVE, PROVINCE, DISTRICT AND PALIKA LEVEL, WARD LEVEL) . Sourced: Survey Department of Nepal
