@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "nepal_topo_maze",
+        "name": "Nepal Topo Maze",
+        "type": "tms",
+        "url": "https://indianopenmaps.fly.dev/nepal/topo/maze/main/{z}/{x}/{y}.webp",
+        "zmin": 0,
+        "zmax": 18,
+        "proj": "EPSG:3857",
+        "attribution": "http://nakarte.me/"
+      },
+      "geometry": null
+    }
+  ]
+}
